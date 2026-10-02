@@ -1,107 +1,83 @@
-🎮 ALIF: Life RPG & Literasi Finansial Syariah
+# 🎮 ALIF: Life RPG & Literasi Finansial Syariah
 
-ALIF adalah game RPG naratif 2D bergaya pixel-art yang membawa literasi finansial dan prinsip keuangan syariah ke dalam keputusan hidup sehari-hari. Pemain akan mengikuti kisah Alif, seorang mahasiswa 19 tahun yang tinggal jauh dari rumah, saat ia belajar mengatur hidup dan uangnya sendiri.
+> **Repository ini bersifat private/internal. Versi terbaru ALIF dapat diakses melalui website resmi.**
 
-Mengatur uang ternyata tidak sesederhana mencatat pengeluaran. Di ALIF, literasi finansial hadir bukan sebagai materi hafalan, melainkan sebagai keputusan nyata.
+## 🌐 Main Website
 
-📖 Mengapa ALIF Ada?
+### 👉 [https://alif.games](https://alif.games)
 
-Keputusan keuangan yang sebenarnya jarang terjadi di slide presentasi. Edukasi finansial biasanya diajarkan lewat teori, materi statis, atau ceramah yang mudah terlupa.
+Mainkan ALIF, lihat perkembangan terbaru, dan pelajari lebih lanjut mengenai proyek kami langsung di:
 
-Kenyataannya, keputusan terjadi lewat trade-off antar kebutuhan, kebiasaan, dan ketidakpastian. ALIF mengubah konsep-konsep tersebut menjadi keputusan interaktif di dalam cerita. Keterampilan tumbuh dari pengalaman mengambil keputusan!
+**🎮 https://alif.games**
 
-✨ Fitur Utama
+---
 
-Jelajahi (Explore): Berbicara dengan penduduk dan pahami situasi mereka.
+## Tentang ALIF
 
-Putuskan (Decide): Tentukan sikap Alif dalam menghadapi berbagai dilema finansial.
+**ALIF** adalah game RPG naratif 2D bergaya pixel-art yang membawa literasi finansial dan prinsip keuangan syariah ke dalam keputusan hidup sehari-hari.
 
-Rasakan (Experience): Setiap pilihan akan memengaruhi uang, relasi, dan arah cerita.
+Pemain mengikuti perjalanan **Alif**, seorang mahasiswa berusia 19 tahun yang tinggal jauh dari rumah dan mulai belajar mengatur kehidupan serta keuangannya sendiri.
 
-Pahami (Learn): Kenali prinsip finansial di balik setiap keputusan.
+Di ALIF, literasi finansial tidak hadir sebagai materi hafalan, tetapi sebagai **keputusan nyata di dalam permainan**.
 
-Bertumbuh (Grow): Buka tantangan, konsep, dan alat keuangan baru seiring berjalannya cerita.
+Pemain akan:
 
-Fitur "Tanya Alif": Bingung soal riba, KPR syariah, atau investasi halal? Tanya langsung ke Alif! Jawabannya selalu disertai rujukan fatwa dan dalilnya.
+- 🗺️ **Explore** — menjelajahi dunia dan berbicara dengan karakter.
+- ⚖️ **Decide** — mengambil keputusan dalam berbagai dilema finansial.
+- 🎭 **Experience** — merasakan konsekuensi terhadap uang, relasi, dan cerita.
+- 📚 **Learn** — memahami konsep finansial di balik setiap keputusan.
+- 🌱 **Grow** — membuka kemampuan, konsep, dan alat finansial baru.
 
-🗺️ Dunia ALIF
+ALIF juga menghadirkan fitur **Tanya Alif**, tempat pemain dapat mempelajari topik seperti riba, KPR syariah, investasi halal, wakaf, sukuk, dan konsep finansial lainnya dengan rujukan yang relevan.
 
-Jelajahi lingkungan yang akrab dengan kehidupan sehari-hari di Indonesia:
+---
 
-Kos Cempaka: Rumah Alif; tempat ia belajar mengatur hidup dan anggaran hariannya.
+## 🏆 Pencapaian
 
-Stasiun Cempaka: Gerbang awal perjalanan Alif menuju kota baru.
+ALIF telah berkembang melalui program **PIDI**, dari tahap **Top 10 hingga Top 6**, dan melanjutkan pengembangan menuju kolaborasi serta kemitraan dengan berbagai institusi.
 
-Warung Bu Siti: Kelas kejujuran; transaksi, harga, dan keputusan ekonomi sehari-hari.
+Mitra/offtaker yang terlibat dalam proses pengembangan antara lain:
 
-FFC: Tempat makan ayam goreng; latihan hitung uang saku dan pilih menu tanpa bikin kantong bolong.
+- **ASPI** — Asosiasi Sistem Pembayaran Indonesia
+- **APUVINDO** — Asosiasi Pasar Uang dan Pasar Valuta Asing Indonesia
+- **Bank Indonesia**
 
-🌳 Pohon Keahlian Finansial (Skill Tree)
+---
 
-Setiap topik keuangan terbuka secara bertahap seperti skill di dalam game:
+## 👥 Meet the Party
 
-Budgeting: Menyusun anggaran harian dan bulanan.
+**Rifki — Hustler / Project Leader**  
+Ekonomi Syariah, IPB University  
+Memimpin arah produk, bisnis, dan cerita ALIF.
 
-Menabung: Membangun kebiasaan menyisihkan uang.
+**Gregorius Willson — Hacker / AI & Spatial Algorithm**  
+Computer Science, BINUS University  
+Mengembangkan sistem AI, algoritma, dan dunia interaktif ALIF.
 
-Kebutuhan vs Keinginan: Membedakan yang pokok dan yang bisa ditunda.
+**Reihan — Hacker / Game Developer**  
+Computer Science, BINUS University  
+Mengembangkan gameplay dan implementasi teknis ALIF.
 
-Transaksi Etis: Jujur dan adil dalam jual beli.
+---
 
-Investasi: Mengenal instrumen yang halal dan sesuai prinsip.
+## 🚀 Play ALIF
 
-Manajemen Risiko: Menyiapkan diri menghadapi ketidakpastian.
+### **[▶ Play & Explore ALIF at alif.games](https://alif.games)**
 
-Wakaf: Bersedekah yang manfaatnya terus mengalir.
+Untuk informasi, demo, update, dan akses ALIF terbaru, seluruh pengguna diarahkan ke website resmi kami.
 
-Sukuk: Pembiayaan berbasis aset sesuai syariah.
+---
 
-🏆 Pencapaian & Mitra
+## 📞 Contact
 
-ALIF berhasil melaju dari 10 besar ke Top 6 PIDI dan kini masuk ke tahap kemitraan. Proyek ini didukung oleh mitra offtaker:
+**Financial Literacy Through Play.**  
+Made in Indonesia 🇮🇩
 
-ASPI (Asosiasi Sistem Pembayaran Indonesia)
+Partnership, feedback, or inquiries:
 
-APUVINDO (Asosiasi Pasar Uang dan Pasar Valuta Asing Indonesia)
+📧 **alifdigdaya@gmail.com**  
+🌐 **https://alif.games**
 
-Bank Indonesia
-
-👥 Meet the Party
-
-Tiga penggagas di balik ALIF:
-
-Rifki (Hustler / Project Leader) - Ekonomi Syariah, IPB University. Memimpin arah produk dan cerita ALIF.
-
-Gregorius Willson (Hacker / AI & Spatial Algorithm) - Computer Science, Binus University. Membangun otak dan dunia yang hidup.
-
-Reihan (Hacker / Game Developer) - Computer Science, Binus University. Mewujudkan ALIF sebagai game yang layak dimainkan.
-
-🚀 Roadmap (Peta Petualangan)
-
-[x] Chapter 1 - Prototipe: Dunia awal dan mekanik dasar.
-
-[x] Chapter 2 - PIDI Top 6: Validasi lewat kompetisi, melaju dari 10 besar ke 6 besar.
-
-[ ] Chapter 3 - Kemitraan: Kolaborasi institusi pendidikan dan keuangan.
-
-[ ] Chapter 4 - Pengembangan Inti: Gameplay, cerita, dan sistem finansial.
-
-[ ] Chapter 5 - Uji Coba Terbatas: Bersama pemain dan mitra edukasi.
-
-[ ] Chapter 6 - Rilis Publik: ALIF sampai ke tangan pemain.
-
-🎮 Cara Bermain
-
-ALIF dapat dimainkan dengan dua cara:
-
-Web Version (Laptop/PC): Ukuran sekitar 23MB, dioptimalkan untuk pengalaman terbaik di browser PC.
-
-Android APK: Ukuran sekitar 123MB. (Catatan: Izinkan instalasi dari sumber tidak dikenal saat pemasangan).
-
-📞 Kontak
-
-Financial Literacy Through Play. Dibuat di Indonesia.
-Untuk pertanyaan, masukan, atau tawaran kemitraan, hubungi kami di:
-📧 Email: alifdigdaya@gmail.com
+---
 
 © 2026 ALIF Team
